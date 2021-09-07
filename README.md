@@ -10,4 +10,6 @@ Aquí encontrarás temas como:
 * Operaciones básicas con Pandas.
 * La importancia de Pandas dentro de la Ciencia de Datos.
 
+El archivo que contiene las notas es *notebook.ipynb*.
+
 Si este repositorio te fue útil, no olvides darle star. ⭐
